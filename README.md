@@ -17,3 +17,5 @@
 [Feynman - Simulating Physics with Computers](https://people.eecs.berkeley.edu/~christos/classics/Feynman.pdf)
 
 [Washington Quantum Computation](https://courses.cs.washington.edu/courses/cse599d/06wi)
+
+[Piraj - Gottesman Videos](http://pirsa.org/C15009)
