@@ -7,3 +7,7 @@
 [EdX Quantum Information Science I, Part 1](https://www.edx.org/course/quantum-information-science-i)
 
 [EdX Quantum Information Science I, Part 2](https://courses.edx.org/courses/course-v1:MITx+8.370.2x+1T2018/course)
+
+[EdX Quantum Information Science I, Part 3](https://courses.edx.org/courses/course-v1:MITx+8.370.3x+1T2018/course)
+
+[EdX Quantum Information Science II](https://courses.edx.org/courses/course-v1:MITx+8.371x+3T2016/course/)
