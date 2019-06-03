@@ -19,3 +19,7 @@
 [Washington Quantum Computation](https://courses.cs.washington.edu/courses/cse599d/06wi)
 
 [Piraj - Gottesman Videos](http://pirsa.org/C15009)
+
+[Quantum - Siraj'ed](https://www.youtube.com/results?search_query=quantum+computing+siraj)
+
+
