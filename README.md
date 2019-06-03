@@ -11,3 +11,9 @@
 [EdX Quantum Information Science I, Part 3](https://courses.edx.org/courses/course-v1:MITx+8.370.3x+1T2018/course)
 
 [EdX Quantum Information Science II](https://courses.edx.org/courses/course-v1:MITx+8.371x+3T2016/course/)
+
+[MIT Quantum Computation](https://ocw.mit.edu/courses/mathematics/18-435j-quantum-computation-fall-2003/)
+
+[Feynman - Simulating Physics with Computers](https://people.eecs.berkeley.edu/~christos/classics/Feynman.pdf)
+
+[Washington Quantum Computation](https://courses.cs.washington.edu/courses/cse599d/06wi)
