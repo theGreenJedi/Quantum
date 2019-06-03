@@ -149,3 +149,68 @@ For further resources related to Open Source Quantum Software Projects, please c
 
 To the extent possible under law, [Desiree Vogt-Lee](https://github.com/desireevl) has waived all copyright and related or neighboring rights to this work.
 
+Fork of llSourcell
+
+[![Qubit](http://qoqms.phys.strath.ac.uk/figures/qubit.png)](https://en.wikipedia.org/wiki/Qubit)
+                                                                   
+* [YOUTUBE](https://www.youtube.com/watch?v=zNzzGgr2mhk) - A nice video about the Quantum Bits 1
+* [YOUTUBE](https://www.youtube.com/watch?v=F8U1d2Hqark&t=179s) - A nice video about the Bits and Qubits 2
+                                                                   
+<a name="quantumcomputing-basicgates"></a>
+#### Basic Gates in Quantum Computing
+                 
+##### one line : As like NOT, OR and AND , Basic Gates like NOT, Hadamard gate , SWAP, Phase shift etc can be made with quantum gates 
+
+[![Basic Gates in Quantum Computing](http://www.mdpi.com/entropy/entropy-16-05290/article_deploy/html/images/entropy-16-05290f1-1024.png)](https://en.wikipedia.org/wiki/Quantum_gate)
+                                                                   
+* [YOUTUBE](https://www.youtube.com/watch?v=2Qsh_w2kq9Y) - A nice video about the Quantum Gates
+                                                                   
+<a name="quantumcomputing-diode"></a>
+#### Quantum Diode
+                 
+##### one line : Quantum Diodes using a different idea from normal diode, A bunch of laser photons trigger the electron to spin and the quantum magnetic flux will capture the information  
+
+[![Diodes in Quantum Computing1](https://www.ifw-dresden.de/userfiles/groups/iin_folder/research/photonics/picture_laser_iin.jpg)](http://onlinelibrary.wiley.com/doi/10.1002/adma.201200537/abstract)
+[![Diodes in Quantum Computing2](https://www.photonics.com/images/Web/Articles/2016/7/13/LED_Blue.jpg)](https://www.nature.com/articles/ncomms12978)
+[![Diodes in Quantum Computing3](https://3c1703fe8d.site.internapcdn.net/newman/gfx/news/hires/2013/nanoscaleeng.jpg)](https://phys.org/news/2013-10-nanoscale-boosts-quantum-dot-emitting.html)
+
+                                                                   
+* [YOUTUBE](https://www.youtube.com/watch?v=doyK1olswX4) - A nice video about the Quantum Diode
+                                                                   
+<a name="quantumcomputing-transistor"></a>
+#### Quantum Transistors
+                 
+##### one line : A transistor default have Source ,drain and gate ,Here source is photon wave ,drain is flux and gate is classical to quantum bits 
+
+[![Quantum Transistors1](https://images.sciencedaily.com/2010/05/100514075106_1_900x600.jpg)](http://www.mpq.mpg.de/4987844/qip)
+[![Quantum Transistors2](http://www.mpq.mpg.de/5016851/standard-1412932044.png)](https://en.wikipedia.org/wiki/Magnetic_flux_quantum)
+
+                                                                                                                                    
+* [QUORA](https://www.quora.com/What-is-the-equivalent-of-the-transistor-in-a-quantum-computer) -Discussion about the Quantum Transistor
+* [YOUTUBE](https://www.youtube.com/watch?v=ZTxR2n2mvjc) - Well Explained
+                                                                   
+<a name="quantumcomputing-processor"></a>
+#### Quantum Processor
+                 
+##### one line : A nano integration circuit performing the quantum gates operation sorrounded by cooling units to reduce the tremendous amount of heat 
+
+[![Quantum Processor1](https://www.dwavesys.com/sites/default/files/cooling-082015%20copy.png)](https://www.dwavesys.com/tutorials/background-reading-series/introduction-d-wave-quantum-hardware#h2-0)
+[![Quantum Processor2](https://www.photonics.com/images/Web/Articles/2014/6/5/Quantum_Circuit.png)](https://quantumexperience.ng.bluemix.net/qstage/?cm_mc_uid=36641337812614766932472&cm_mc_sid_50200000=1493295650#/user-guide)
+[![Quantum Processor3](https://universe-review.ca/I13-13-superconductive.jpg)](https://www.cbinsights.com/blog/quantum-computing-corporations-list/)
+                                                                                                                                    
+* [YOUTUBE](https://www.youtube.com/watch?v=CMdHDHEuOUE) - Well Explained
+                                                                   
+<a name="quantumcomputing-qram"></a>
+#### Quantum Registery QRAM
+                 
+##### one line : Comapring the normal ram ,its ultrafast and very small in size ,the address location can be access using qubits superposition value ,for a very large memory set coherent superposition(address of address) be used
+
+[![QRAM1](https://ai2-s2-public.s3.amazonaws.com/figures/2016-11-08/94d487c6ef4d0fa5594eff352aac19e2bfd47ffa/2-Figure1-1.png)](https://arxiv.org/pdf/0708.1879.pdf)
+[![QRAM2](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning/blob/master/QRAM.png)](https://www.researchgate.net/publication/51394884_Quantum_Random_Access_Memory)
+                                                                   
+* [PDF](https://arxiv.org/pdf/0807.4994.pdf) - very Well Explained
+
+
+<a name="qcmlbridge"></a>
+## QUANTUM COMPUTING MACHINE LEARNING BRIDGE
+                                                                   
